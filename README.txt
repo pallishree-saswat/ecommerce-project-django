@@ -1,0 +1,1 @@
+#django postgresql ecommerce project
